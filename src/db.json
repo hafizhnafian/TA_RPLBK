@@ -1,0 +1,135 @@
+{
+    "mahasiswa": [
+        {
+            "name": "Dessinta",
+            "nim": "1111111111",
+            "tlp": "0888888888",
+            "email": "dessintu@uwu",
+            "address": "Ngawi",
+            "image": "https://www.dailysia.com/wp-content/uploads/2020/08/ekspresi-kucing-kaget_3.jpg?x57806"
+        },
+        {
+            "name": "Rahmadani",
+            "nim": "2222222222",
+            "tlp": "0877777777",
+            "email": "rahma@uwu",
+            "address": "Tembalang",
+            "image": "https://assets.pikiran-rakyat.com/crop/0x0:800x559/x/photo/2021/07/14/377416768.png"
+        },
+        {
+            "name": "Hafizh",
+            "nim": "3333333333",
+            "tlp": "0866666666",
+            "email": "apis@uwu",
+            "address": "Tangsel",
+            "image": "https://assets.pikiran-rakyat.com/crop/0x0:800x559/x/photo/2021/07/14/377416768.png"
+        },
+        {
+            "name": "Nafian",
+            "nim": "4444444444",
+            "tlp": "0855555555",
+            "email": "nafian@uwu",
+            "address": "Jakarta",
+            "image": "https://assets.pikiran-rakyat.com/crop/0x0:800x559/x/photo/2021/07/14/377416768.png"
+        },
+        {
+            "name": "Riska",
+            "nim": "5555555555",
+            "tlp": "0844444444",
+            "email": "ris@uwu",
+            "address": "Semarang",
+            "image": "https://assets.pikiran-rakyat.com/crop/0x0:800x559/x/photo/2021/07/14/377416768.png"
+        },
+        {
+            "name": "Marieta",
+            "nim": "6666666666",
+            "tlp": "0833333333",
+            "email": "mari@uwu",
+            "address": "semarang",
+            "image": "https://assets.pikiran-rakyat.com/crop/0x0:800x559/x/photo/2021/07/14/377416768.png"
+        },
+        {
+            "name": "Praktikan",
+            "nim": "7777777777",
+            "tlp": "0822222222",
+            "email": "praktikan@uwu",
+            "address": "Tembalang",
+            "image": "https://assets.pikiran-rakyat.com/crop/0x0:800x559/x/photo/2021/07/14/377416768.png"
+        },
+        {
+            "name": "Kelompok-49",
+            "nim": "8888888888",
+            "tlp": "0811111111",
+            "email": "Kelompok-49@uwu",
+            "address": "Tembalang",
+            "image": "https://assets.pikiran-rakyat.com/crop/0x0:800x559/x/photo/2021/07/14/377416768.png"
+        }
+    ],
+
+    "dosen": [
+        {
+            "name": "Dosen 1",
+            "nip": "8888888888",
+            "tlp": "0811111111",
+            "email": "dosen1@uwu",
+            "address": "Ngawi",
+            "image": "https://www.dailysia.com/wp-content/uploads/2020/08/ekspresi-kucing-kaget_3.jpg?x57806"
+        },
+        {
+            "name": "Dosen 2",
+            "nip": "7777777777",
+            "tlp": "0822222222",
+            "email": "dosen2@uwu",
+            "address": "Tembalang",
+            "image": "https://assets.pikiran-rakyat.com/crop/0x0:800x559/x/photo/2021/07/14/377416768.png"
+        },
+        {
+            "name": "Dosen 3",
+            "nip": "6666666666",
+            "tlp": "0833333333",
+            "email": "dosen3@uwu",
+            "address": "Tangsel",
+            "image": "https://assets.pikiran-rakyat.com/crop/0x0:800x559/x/photo/2021/07/14/377416768.png"
+        },
+        {
+            "name": "Dosen 4",
+            "nip": "5555555555",
+            "tlp": "0844444444",
+            "email": "dosen4@uwu",
+            "address": "Jakarta",
+            "image": "https://assets.pikiran-rakyat.com/crop/0x0:800x559/x/photo/2021/07/14/377416768.png"
+        },
+        {
+            "name": "Dosen 5",
+            "nip": "4444444444",
+            "tlp": "0855555555",
+            "email": "dosen5@uwu",
+            "address": "Semarang",
+            "image": "https://assets.pikiran-rakyat.com/crop/0x0:800x559/x/photo/2021/07/14/377416768.png"
+        },
+        {
+            "name": "Dosen 6",
+            "nip": "3333333333",
+            "tlp": "0866666666",
+            "email": "dosen6@uwu",
+            "address": "semarang",
+            "image": "https://assets.pikiran-rakyat.com/crop/0x0:800x559/x/photo/2021/07/14/377416768.png"
+        },
+        {
+            "name": "Dosen 7",
+            "nip": "2222222222",
+            "tlp": "0877777777",
+            "email": "dosen7@uwu",
+            "address": "Tembalang",
+            "image": "https://assets.pikiran-rakyat.com/crop/0x0:800x559/x/photo/2021/07/14/377416768.png"
+        },
+        {
+            "name": "Dosen 8",
+            "nip": "1111111111",
+            "tlp": "0888888888",
+            "email": "dosen8@uwu",
+            "address": "Tembalang",
+            "image": "https://assets.pikiran-rakyat.com/crop/0x0:800x559/x/photo/2021/07/14/377416768.png"
+        }
+    ]
+}
