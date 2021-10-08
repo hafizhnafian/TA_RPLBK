@@ -3,7 +3,7 @@ import React, { Component } from "react";
 export default class Card extends Component {
     render() {
         return (
-        <div class="max-w-2xl bg-white border-2 border-gray-300 p-5 rounded-md tracking-wide shadow-lg mr-4">
+        <div style={{minWidth: '350px'}} class="bg-white border-2 border-gray-300 p-5 rounded-md tracking-wide shadow-lg mr-4">
            <div id="header" class="flex"> 
            <img alt="gambar" class="w-40 rounded-md border-2 border-gray-300" src={this.props.image} />
            <div id="body" class="flex flex-col ml-5">
